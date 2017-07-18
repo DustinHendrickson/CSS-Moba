@@ -1,0 +1,74 @@
+"Phrases"
+{
+	//<shortname>_RaceName
+	"warden_RaceName"
+	{
+		"en"		"Warden"
+	}
+
+	//skills:
+	//<shortname>_skill_<SkillNameIdentifier> for the skill name
+	//<shortname>_skill_<SkillNameIdentifier>_desc for the skill description
+	"warden_skill_FanOfKnivesCS"
+	{
+		"en"		"Fan of Knives"
+	}
+	"warden_skill_FanOfKnivesCS_desc"
+	{
+		"en"		"A 4/7/11/15 percent chance of being a mole.\n\nYou also get 2*LEVEL knives to throw each round. \nUse quick attack when holding a knife."
+	}
+
+	"warden_skill_FanOfKnivesTF"
+	{
+		"en"		"Fan of Knives"
+	}
+	"warden_skill_FanOfKnivesTF_desc"
+	{
+		"en"		"A chance of damaging people around you when attacked"
+	}
+
+	"warden_skill_Immunity"
+	{
+		"en"		"Immunity"
+	}
+	"warden_skill_Immunity_desc"
+	{
+		"en"		"Grants Immunity from ultimates wth a 25/50/75/100 percent chance."
+	}
+
+	"warden_skill_ShadowStrike"
+	{
+		"en"		"Shadow Strike"
+	}
+	"warden_skill_ShadowStrike_desc"
+	{
+		"en"		"A 5/10/15/20 percent chance of poisoning your enemy per hit. \nDeals 20 initial damage and 5 damage 2/3/4/5 times. "
+	}
+
+	"warden_skill_VengenceCS"
+	{
+		"en"		"Vengence"
+	}
+	"warden_skill_VengenceCS_desc"
+	{
+		"en"		"You respawn back at your spawn after death. \n\nYou start with 40/50/60/70 percent hp."
+	}
+
+	"warden_skill_VengenceTF"
+	{
+		"en"		"Vengence"
+	}
+	"warden_skill_VengenceTF_desc"
+	{
+		"en"		"Recharge a percent of your health"
+	}
+
+	"No suitable location found, can not mole!"
+	{
+		"en"		"No suitable location found, can't mole!"
+	}
+	"Revived by Vengence"
+	{
+		"en"		"Revived by Vengence"
+	}
+}

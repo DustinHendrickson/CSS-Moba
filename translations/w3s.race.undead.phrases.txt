@@ -1,0 +1,73 @@
+"Phrases"
+{
+	//<shortname>_RaceName
+	"undead_RaceName"
+	{
+		"en"		"Undead"
+	}
+
+	//skills:
+	//<shortname>_skill_<SkillNameIdentifier> for the skill name
+	//<shortname>_skill_<SkillNameIdentifier>_desc for the skill description
+	"undead_skill_VampiricAura"
+	{
+		"en"		"Vampiric Aura"
+	}
+	"undead_skill_VampiricAura_desc"
+	{
+		"en"		"Leech Health\nYou recieve #1# of your damage dealt as Health.\n\nLevels [5%, 10%, 15%, 20%]"
+	}
+
+	"undead_skill_UnholyAura"
+	{
+		"en"		"Unholy Speed"
+	}
+	"undead_skill_UnholyAura_desc"
+	{
+		"en"		"You run #1# faster.\n\nLevels [5%, 10%, 15%, 20%]"
+	}
+
+	"undead_skill_Levitation"
+	{
+		"en"		"Levitation"
+	}
+	"undead_skill_Levitation_desc"
+	{
+		"en"		"You can jump higher with #1# less gravity.\n\nLevels [15%, 30%, 40%, 50%]"
+	}
+
+	"undead_skill_SuicideBomber"
+	{
+		"en"		"Suicide Bomber"
+	}
+	"undead_skill_SuicideBomber_desc"
+	{
+		"en"		"You explode when you die, damaging nearby enemies.\nCan be manually activated with +ultimate\n\nRadius Levels [250, 290, 310, 333]\nDamage Levels [166, 200, 233, 266]"
+	}
+
+	"Suicide bomber BUILDING damage: {amount} at distance {amount}"
+	{
+		"#format"	"{1:d},{2:f}"
+		"en"		"[W3S] Suicide bomber BUILDING damage: {1} at distance {2}"
+	}
+	"Player {player} has immunity (protecting buildings)"
+	{
+		"#format"	"{1:d}"
+		"en"		"[W3S] Player {1} has immunity (protecting buildings)"
+	}
+	"Suicide bomber damage: {amount} to {amount} at distance {amount}"
+	{
+		"#format"	"{1:d},{2:d},{3:f}"
+		"en"		"[W3S] Suicide bomber damage: {1} to {2} at distance {3}"
+	}
+	"Could not damage player {player} due to immunity"
+	{
+		"#format"	"{1:d}"
+		"en"		"[W3S] Could not damage player {1} due to immunity"
+	}
+	"Leeched +{amount} HP"
+	{
+		"#format"	"{1:d}"
+		"en"		"[W3S] Leeched +{1} HP"
+	}
+}

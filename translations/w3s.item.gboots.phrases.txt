@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"gboots_ItemName"
+	{
+		"en"		"Gum Boots"
+		"ru"		"Резиновые сапожки"
+	}
+	"gboots_ItemDesc"
+	{
+		"en"		"Fall damage reduced by 30%"
+		"ru"		"Вы перестаете получать урон от падения"
+	}
+}
