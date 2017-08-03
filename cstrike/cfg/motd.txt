@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html>
+<head>
+<title>Dustin's CS:MOBA</title>
+<style type="text/css">
+pre 	{
+		font-family:Verdana,Tahoma;
+		color:#FFB000;
+    	}
+body	{
+		background:#000000;
+		margin-left:8px;
+		margin-top:0px;
+		}
+a	{
+    	text-decoration:    underline;
+	}
+a:link  {
+    color:  #FFFFFF;
+    }
+a:visited   {
+    color:  #FFFFFF;
+    }
+a:active    {
+    color:  #FFFFFF;
+    }
+a:hover {
+    color:  #FFFFFF;
+    text-decoration:    underline;
+    }
+</style>
+</head>
+<body scroll="no">
+<pre>
+You are playing Counter-Strike: MOBA
+Type <b>war3menu</b> for help.
+
+You are playing Counter-Strike: MOBA by Dustin
+1. Pick a race from the menu when you start.
+2. Teams are limited to 1 race per team.
+2. Kill enemies and help with objectives to level up.
+3. Every level you get to pick a new ability or level an existing one up.
+4. At level 6 you get an ultimate ability!
+5. First to 10 wins.
+6. Type sm_hud in your console to display a HUD with information.
+
+Example binds.
+
+// WC3 MOD BINDS
+bind [ "say war3menu"
+bind \ "say shopmenu"
+bind ] "say raceinfo"
+bind MOUSE5 "+ultimate"
+bind MOUSE4 "+ability"
+
+Type war3menu in chat for help.
+</pre>
+</body>
+</html>
